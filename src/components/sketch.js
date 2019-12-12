@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import styled from '@emotion/styled';
-import p5 from '../scripts/p5Custom.min';
+import p5 from 'p5';
 
 class Sketch extends Component {
   constructor(props) {
